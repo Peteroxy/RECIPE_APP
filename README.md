@@ -1,6 +1,9 @@
-# React Recipe App
+#Recipe App
 
 The React Recipe App is a web application that allows users to search and discover various recipes. It provides an intuitive and user-friendly interface for browsing recipes, viewing their details, and saving favorites for future reference.
+
+-Visit Site Here: https://peter-react-recipe-app.vercel.app/
+
 
 ## Features
 - Recipe Search: Users can search for recipes based on keywords, ingredients, or specific dietary requirements.
@@ -13,12 +16,12 @@ The React Recipe App is a web application that allows users to search and discov
 
 - Clone the repository:
 ```
-git clone https://github.com/Peteroxy/REACT_RECIPE_APP.git
+https://github.com/Peteroxy/RECIPE_APP.git
 ```
 
 - Change to the project directory:
 ```
-cd REACT_RECIPE_APP
+cd RECIPE_APP
 ```
 
 - Install the dependencies
